@@ -1,0 +1,29 @@
+[100%]	folder
+	The standard folder icon used to represent directories on local filesystems, 
+	mail folders, and other hierarchical groups.
+
+[100%] 	folder-remote
+	The icon used for normal directories on a remote filesystem. 
+
+[000%]	network-server
+	The icon used for individual host machines under the “Network Servers”
+	place in the file manager.
+
+[000%]	network-workgroup
+	The icon for the “Network Servers” place in the desktop's file manager,
+	and workgroups within the network.
+
+[000%] 	start-here
+	The icon used by the desktop's main menu for accessing places, applications, and other features.
+
+[000%]	user-bookmarks
+	The icon for the user's special “Bookmarks” place.
+
+[000%]	user-desktop
+	The icon for the special “Desktop” directory of the user.
+
+[000%]	user-home
+	The icon for the special “Home” directory of the user.
+
+[000%]	user-trash
+	The icon for the user's “Trash” place in the desktop's file manager.
