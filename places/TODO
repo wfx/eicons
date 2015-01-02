@@ -5,17 +5,19 @@
 [100%] 	folder-remote
 	The icon used for normal directories on a remote filesystem. 
 
-[000%]	network-server
+[80%]	network-server
 	The icon used for individual host machines under the “Network Servers”
 	place in the file manager.
+	! Dont like the link painting. I change it to a Globe
 
 [000%]	network-workgroup
 	The icon for the “Network Servers” place in the desktop's file manager,
 	and workgroups within the network.
 
-[000%] 	start-here
+[100%] 	start-here
 	The icon used by the desktop's main menu for accessing places, applications, and other features.
-
+	! Copy of Raster's e-logo-blue-glow 
+	
 [000%]	user-bookmarks
 	The icon for the user's special “Bookmarks” place.
 
