@@ -1,31 +1,31 @@
-[100%]	folder
+Done	folder
 	The standard folder icon used to represent directories on local filesystems, 
 	mail folders, and other hierarchical groups.
 
-[100%] 	folder-remote
+Done 	folder-remote
 	The icon used for normal directories on a remote filesystem. 
 
-[80%]	network-server
+Hmmm	network-server
 	The icon used for individual host machines under the “Network Servers”
 	place in the file manager.
 	! Dont like the link painting. I change it to a Globe
 
-[000%]	network-workgroup
+Open	network-workgroup
 	The icon for the “Network Servers” place in the desktop's file manager,
 	and workgroups within the network.
 
-[100%] 	start-here
+Done 	start-here
 	The icon used by the desktop's main menu for accessing places, applications, and other features.
 	! Copy of Raster's e-logo-blue-glow 
 	
-[000%]	user-bookmarks
+Open	user-bookmarks
 	The icon for the user's special “Bookmarks” place.
 
-[000%]	user-desktop
+Done	user-desktop
 	The icon for the special “Desktop” directory of the user.
-
-[000%]	user-home
+Done
+	user-home
 	The icon for the special “Home” directory of the user.
 
-[000%]	user-trash
+Open	user-trash
 	The icon for the user's “Trash” place in the desktop's file manager.
