@@ -22,9 +22,12 @@ def my_script_function(image,item,dir) :
 
     for filename in svgs:
         svg_img = pdb.file_svg_load(filename, filename, resolution, width, height, 0)
+        pdb.gimp_selection_all(svg_img)
         pdb.gimp_edit_copy(svg_img.layers[0])
-        image.new_layer(name=filename)
-        pdb.gimp_edit_paste(image.layers[0], -1)
+        head, tail = os.path.split(filename)
+        image.new_layer(name=tail)
+        floating_sel = pdb.gimp_edit_paste(image.layers[0], -1)
+        pdb.gimp_floating_sel_anchor(floating_sel)
         pdb.gimp_image_delete(svg_img)
 
     return
