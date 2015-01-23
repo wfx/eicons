@@ -24,8 +24,8 @@ def my_script_function(image,item,dir) :
         #layer = pdb.gimp_layer_new(image, width, height, RGBA_IMAGE, filename, 0, 0)
         svg_img = pdb.file_svg_load(filename, filename, resolution, width, height, 0)
         image.new_layer(name=filename)
-        non_empty = pdb.gimp_edit_copy(svg_img.layers[0])
-        floating_sel = pdb.gimp_edit_paste(image.layers[0])
+        pdb.gimp_edit_copy(svg_img.layers[0])
+        pdb.gimp_edit_paste(image.layers[0])
         pdb.gimp_image_delete(svg_img)
 
     return
