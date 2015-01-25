@@ -1,4 +1,4 @@
-![e](https://github.com/wfx/eicons/blob/master/places/32/icon_start_here.png "e") eicons
+![e](https://github.com/wfx/eicons/blob/master/e-symbolic/places/32/icon_start_here.png "e") eicons
 ======
 based on the [Free Desktop Org - Icon Naming Specification](http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html "standards.freedesktop.org")
 
