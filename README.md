@@ -1,4 +1,4 @@
-Icons for ![e](https://github.com/wfx/eicons/blob/master/places/48/icon_start_here.png "e")
+![e](https://github.com/wfx/eicons/blob/master/places/32/icon_start_here.png "e")icons
 ======
 based on the [Free Desktop Org - Icon Naming Specification](http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html "standards.freedesktop.org")
 
