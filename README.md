@@ -7,11 +7,11 @@ Example for the 16x16 actions:<br>
 
 Naming rule:
 ------
-<b>icon_<b> as prefix and <b>_<b> instead of -<br>
+<b>icon_</b> as prefix and <b>_</b> instead of -<br>
 The correct fdo names are mapped in icon.edc<br>
 <br>
 example:<br>
-    application-chat.png -> <b>icon_<b>application<b>_<b>chat.png<br>
+    application-chat.png -> <b>icon_</b>application<b>_</b>chat.png<br>
 <br>
 <br>
 The work include icons based on:
