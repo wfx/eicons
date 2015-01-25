@@ -1,4 +1,4 @@
-![e](https://github.com/wfx/eicons/blob/master/places/48/icon_start_here.png "e")icons
+![e](https://github.com/wfx/eicons/blob/master/places/32/icon_start_here.png "e") eicons
 ======
 based on the [Free Desktop Org - Icon Naming Specification](http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html "standards.freedesktop.org")
 
@@ -7,11 +7,11 @@ Example for the 16x16 actions:<br>
 
 Naming rule:
 ------
-icon_ as prefix and _ instead of -<br>
+<b>icon_<b> as prefix and <b>_<b> instead of -<br>
 The correct fdo names are mapped in icon.edc<br>
 <br>
 example:<br>
-    application-chat.png -> icon_application_chat.png<br>
+    application-chat.png -> <b>icon_<b>application<b>_<b>chat.png<br>
 <br>
 <br>
 The work include icons based on:
