@@ -13,7 +13,7 @@ The correct fdo names are mapped in icon.edc<br>
 example:<br>
     application-chat.png -> icon_application_chat.png
 
-The work include icons based on:
+This work include icons based on:
 -------
 *  [GNOME Symbolic Icons](https://github.com/GNOME/gnome-icon-theme-symbolic "github.com")
 *  [enlightenment freedesktop logos](http://enlightenment.freedesktop.org/logos.php "enlightenment.freedesktop.org")
